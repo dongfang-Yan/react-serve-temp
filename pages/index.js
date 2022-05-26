@@ -1,8 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1 style={{'text-align': 'center'}}>hello world</h1>
-      <h2>男妈妈给爷爬！</h2>
+      <h1 style={{'textAign': 'center', 'marginTop': '200px'}}>没有<span style={{'color': 'yellow'}}>颜色</span>！诡计多端的0</h1>
     </div>
   )
 }
